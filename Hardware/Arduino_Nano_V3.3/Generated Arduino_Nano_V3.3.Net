@@ -1,0 +1,216 @@
+[
+C10
+tu tantalum smd3216
+10uF
+
+
+
+]
+[
+C8
+tu tantalum smd3216
+10uF
+
+
+
+]
+[
+C5
+tu tantalum smd3216
+10uF
+
+
+
+]
+[
+XT1
+Thach Anh 3 Chan SMD
+20Mhz
+
+
+
+]
+[
+USB1
+USB Mini 5p SMD
+USB Mini 5p SMD
+
+
+
+]
+[
+U3
+SOT223
+LM1117-3.3V
+
+
+
+]
+[
+U2
+SSOP28
+FT232RL
+
+
+
+]
+[
+U1
+TQFP32
+ATMEGA328P_TQFP32
+
+
+
+]
+[
+SW1
+SW1-SMD
+SW
+
+
+
+]
+[
+L6
+LED-1206-Green
+LED 0805
+
+
+
+]
+[
+L3
+LED-1206-Green
+LED 0805
+
+
+
+]
+[
+L2
+LED-1206-Red
+LED 0805
+
+
+
+]
+[
+L1
+LED-1206-Yellow
+LED 0805
+
+
+
+]
+[
+JP1
+JP 2x3 DT
+JP 2x3 2.54
+
+
+
+]
+[
+F1
+Cau Chi SMD1808
+0.5A 125V
+
+
+
+]
+[
+C11
+tu 0805
+105
+
+
+
+]
+[
+C9
+tu 0805
+105
+
+
+
+]
+[
+C7
+tu 0805
+105
+
+
+
+]
+[
+C6
+tu 0805
+10pF
+
+
+
+]
+[
+C4
+tu 0805
+10pF
+
+
+
+]
+[
+C3
+tu tantalum smd3216
+10uF
+
+
+
+]
+[
+C2
+JP15-D1T
+JP15
+
+
+
+]
+[
+C1
+JP15-D1T
+JP15
+
+
+
+]
+[
+2
+TEST POINT
+TEST POINT
+
+
+
+]
+[
+1
+TEST POINT
+TEST POINT
+
+
+
+]
+[
+*
+CAY16
+CAY16
+
+
+
+]
+[
+*1
+CAY16
+CAY16
+
+
+
+]

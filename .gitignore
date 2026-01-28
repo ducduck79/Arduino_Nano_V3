@@ -1,12 +1,31 @@
-# unpacked plugin folders
-plugins/**/*
+# Various Altium files
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+__Previews
+*.PrjPcbStructure
+*.Dat
+*.REP 
+*.TLT
+*.LOG
+*.log
+*.htm
+*.$$$
 
-# files directory where uploads go
-files
+#useless dirs
+Project\ Outputs
+Project\ Logs
+Project Outputs for*
 
-# DBMigrate plugin: generated SQL
-db/sql
+#History
+History
 
-# AssetBundler plugin: generated bundles
-javascripts/bundles
-stylesheets/bundles
+#Exports, but not manual ones
+exports/*
+!exports/manual
+
+#Python stuff
+scripts/__pycache__/
+*.bak
+*.dwl
+*.dwl2
